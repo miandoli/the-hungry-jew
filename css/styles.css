@@ -43,6 +43,9 @@ h1{
 .stage-4{width:75%;}
 .stage-5{width:100%;}
 
+.stage-30{width:42.5%;}
+.stage-60{width:60%;}
+
 .steps{
     display:flex;
     justify-content:space-between;

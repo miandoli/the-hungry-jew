@@ -52,8 +52,9 @@ h1{
 .stage-4{width:75%;}
 .stage-5{width:100%;}
 
-.stage-30{width:42.5%;}
-.stage-60{width:60%;}
+.stage-30{width:65%;}
+.stage-50{width:50%;}
+.stage-60{width:70%;}
 
 .steps{
     display:flex;
